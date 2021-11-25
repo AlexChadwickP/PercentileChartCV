@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "percentileChart",
+        "displayName": "PercentileChart",
+        "guid": "percentileChart5842AC5B1C5F4149ADC266E57E6D9D8A",
+        "visualClassName": "Percentile Chart",
+        "version": "1.0.0",
+        "description": "Percentile chart / Cumulative distribution chart for Power BI",
+        "supportUrl": "mailto:alex.chadwick@sensize.net",
+        "gitHubUrl": "https://github.com/AlexChadwickP/PercentileChartCV"
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Sensize Ltd.",
+        "email": "support@sensize.net"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
